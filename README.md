@@ -1,3 +1,4 @@
+<img width="750" alt="Customer_Shopping" src="https://github.com/user-attachments/assets/23744ce8-accb-460b-8ccb-996e91aac85a" />
 
 # Customer_ShoppingBehavior_Analysis
 Data Analytics project showcasing customer Behavior analysis using Python, SQL and Power BI

@@ -1,5 +1,24 @@
+<img width="750" alt="Customer_behaviour_dashboard" src="https://github.com/user-attachments/assets/82a7f5e5-75ab-47e8-96da-e1ad5a8ab17f" />
 # Customer_ShoppingBehavior_Analysis
 Data Analytics project showcasing customer Behavior analysis using Python, SQL and Power BI
+
+# 🛍️ Customer Shopping Behavior Analysis
+
+---
+
+# 📌 Overview
+
+This project analyzes **customer shopping behavior** using transactional retail data to uncover valuable business insights related to:
+
+✔️ Customer purchasing patterns
+✔️ Product preferences
+✔️ Revenue trends
+✔️ Subscription behavior
+✔️ Customer segmentation
+
+The project demonstrates a complete **Data Analytics workflow** from data cleaning to dashboard reporting.
+
+---
 # 💡 Business Recommendations
 
 ### 🚀 Improve Customer Loyalty Programs
@@ -31,24 +50,6 @@ Promote highly rated and best-selling products.
 | 🐍 Python Notebook    | EDA & Data Cleaning       |
 | 🗄️ SQL Scripts       | Business Analysis Queries |
 | 📊 Power BI Dashboard | Interactive Visualization |
-
-# 🛍️ Customer Shopping Behavior Analysis
-
----
-
-# 📌 Overview
-
-This project analyzes **customer shopping behavior** using transactional retail data to uncover valuable business insights related to:
-
-✔️ Customer purchasing patterns
-✔️ Product preferences
-✔️ Revenue trends
-✔️ Subscription behavior
-✔️ Customer segmentation
-
-The project demonstrates a complete **Data Analytics workflow** from data cleaning to dashboard reporting.
-
----
 
 # 📂 Dataset Summary
 
